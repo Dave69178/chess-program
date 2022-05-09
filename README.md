@@ -11,7 +11,9 @@ I took inpiration from Sebastian Lague's Coding Adventure video, a great watch: 
 # "Features"
 As of writing this (9/5/22) the fundamentals have been laid (board representation, graphics and logic have been completed, albiet to a minimum level).
 I need to run some debugging tests to ensure that all possible moves are legal and that the rules are represented correctly.
+
 I plan to add a menu screen with options for playing against AI or 2 player, as well as playing as black or white.
+
 An initial random 'AI' has been implemented as a test, with a more involved version to come.
 
 # Comments
